@@ -24,4 +24,7 @@ ul {
 ol {
   list-style: number inside;
   text-align: center;
+  max-width: 50%;
+  margin:auto;
+
 }
