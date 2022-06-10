@@ -1,12 +1,27 @@
+
+
 img {
   width: 50%;
   height: 50%;
+  margin: auto;
+  display: block;
 }
 
 p {
   color: blue;
+  text-align: center;
 }
 
 h1 {
-  color:bisque;
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style: inside;
+}
+
+ol {
+  list-style: number inside;
+  text-align: center;
 }
